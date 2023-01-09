@@ -53,6 +53,8 @@ Gallardo Carlos Gonzalo
 Pereyra Jose Luis
 Heredia Enzo Alejandro
 
+## Deploy de la Pagina
+"https://tafi-de-mistol.netlify.app/"
 
 
 
